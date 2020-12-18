@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StyleRUhw4</string>
+    <string name="addBtnTitle">Добавить товар</string>
+    <string name="postBtnTitle">Post</string>
+    <string name="titleHint">Title</string>
+    <string name="priceHint">Price</string>
+    <string name="urlHint">Image url</string>
+</resources>
